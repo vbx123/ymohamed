@@ -1,0 +1,4 @@
+[{"id":"weddings","name":"دعوات الأفراح","cover":"linear-gradient(150deg,#1b150c,#8a6a2f)","ink":"#f4e9d0","page":"categories/weddings.html","active":true,"order":1},
+{"id":"birthdays","name":"أعياد الميلاد","cover":"linear-gradient(135deg,#ff4f9a,#7b5cff)","ink":"#fff","page":"categories/birthdays.html","active":true,"order":2},
+{"id":"love","name":"صفحات الحب","cover":"linear-gradient(150deg,#2a0a14,#c2284a)","ink":"#ffe9ee","page":"categories/love.html","active":true,"order":3},
+{"id":"occasions","name":"مناسبات خاصة","cover":"linear-gradient(135deg,#0d3b47,#0e8a94)","ink":"#e8fbfc","page":"categories/occasions.html","active":true,"order":4}]
